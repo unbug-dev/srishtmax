@@ -38892,4 +38892,28 @@ footer.bg-dark.angled.upper-start:before {
   width: 40%;
 }
 
+.bg-secondary-logo-color {
+  background-color: #23233e;
+}
+
+.btn-outline-primary-logo-color {
+  --bs-btn-color: #f03040;
+  --bs-btn-border-color: #f03040;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #f03040;
+  --bs-btn-hover-border-color: #f03040;
+  --bs-btn-focus-shadow-rgb: 63, 120, 224;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #f03040;
+  --bs-btn-active-border-color: #f03040;
+  --bs-btn-active-shadow: 0rem 0.25rem 0.75rem rgba(30, 34, 40, 0.15);
+  --bs-btn-disabled-color: #f03040;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #f03040;
+  --bs-gradient: none;
+}
+
+.srish-primary-color {
+  /* color: #f03040; */
+}
 /* CUSTOM CSS */
