@@ -38916,4 +38916,15 @@ footer.bg-dark.angled.upper-start:before {
 .srish-primary-color {
   /* color: #f03040; */
 }
+
+.parag {
+  text-align: justify !important;
+}
+
+@media screen and (max-width: 500px) {
+  .service-card-mobile-view {
+    flex-direction: column !important;
+  }
+}
+
 /* CUSTOM CSS */
